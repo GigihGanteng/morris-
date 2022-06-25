@@ -6,16 +6,16 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1>Gigih Andira Hidayat</h1>
+        <h2>Kelompok Alphabet</h2>
+        <p>Mahasiswa Poltekpos jurusan D3TI 2B yang berasal dari Purworejo </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://instagram.com/gigih_andi25?igshid=YmMyMTA2M2Y="
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          My Instagram
         </a>
       </header>
     </div>
